@@ -203,7 +203,7 @@ h1 + p {
 position: absolute;
 left: 0;
 top: 55px;
-width: 100%;
+width: 60%;
 }
 
 @media screen and (max-width: 499px) {
