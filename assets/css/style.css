@@ -196,14 +196,16 @@ h1 + p {
   float: left;
 }
 .riferimento {
+  display: inline-block;
   position: relative;
   
 }
 .underline {
+
 position: absolute;
 left: 0;
 top: 55px;
-width: 60%;
+width: 100%;
 }
 
 @media screen and (max-width: 499px) {
